@@ -1,3 +1,3 @@
 Duck
-mahmut
+Mahmut
 Cat
